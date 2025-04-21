@@ -67,3 +67,43 @@ To set up this CMS follow these steps:
 ```
 $ php artisan serve
 ```
+
+## Screenshots
+### Home
+![Home](screenshots/home.png)
+
+### Member
+![Member](screenshots/member.png)
+
+### Class
+![Class](screenshots/class.png)
+
+### Contact
+![Contact](screenshots/contact.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Admin
+![Admin](screenshots/admin.png)
+
+### Admin Member
+![Admin Member](screenshots/admin_members.png)
+
+### Admin Member Create
+![Admin Member Create](screenshots/admin_member_create.png)
+
+### Admin Member Edit
+![Admin Member Edit](screenshots/admin_member_edit.png)
+
+### Admin Class
+![Admin Class](screenshots/admin_class.png)
+
+### Admin Class Create
+![Admin Class Create](screenshots/admin_class_create.png)
+
+### Admin Class Edit
+![Admin Class Edit](screenshots/admin_class_edit.png)
+
+### Admin Member Update Class Allocation
+![Admin Member Update Class Allocation](screenshots/memberUpdateAllocation.png)
