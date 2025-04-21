@@ -64,6 +64,4 @@ To set up this CMS follow these steps:
     ```
 
 ## Test
-    ```
-    $ php artisan serve
-    ```
+$ php artisan serve
